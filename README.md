@@ -1,10 +1,10 @@
 # Database-SQL
 
+* The files are dedicated for database tutorial hosted by FreeCodeCamp.
 
-* This SQL script is dedicated for database tutorial hosted by FreeCodeCamp tutorial on Postgresql
+* Included the SQL script for reproducing the database for celestrial bodies and worldcup database.
 
-* The script creates a database of celestrial bodies with 5 tables
+* The data in the celestrial bodies are man-made and NOT TRUE.
 
-* The data in the tables are not for not real life data and created from google search, just for the use and practice of database
-
+* The insert_data.sh and queries.sh are the bash shell script for inserting data from games.csv and also data query for information
 
