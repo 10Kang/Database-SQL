@@ -8,6 +8,12 @@
 
 * The insert_data.sh and queries.sh are the bash shell script for inserting data from games.csv and also data query for information
 
-* The salon.sql and salon.sh is dedicated for the project named "Salon Appointment Scheduler"
+* The salon.sql and salon.sh are dedicated for the project named "Salon Appointment Scheduler"
 
-* The element.sh and periodic_table.sql is dedicated for the project name "Periodic Table Database"
+* The element.sh and periodic_table.sql are dedicated for the project named "Periodic Table Database"
+
+* The number_guess.sh and number_guess.sql are dedicated for the project named "Number Guessing Game"
+
+
+
+

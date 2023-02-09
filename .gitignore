@@ -6,3 +6,5 @@
 .queries.sh.~undo-tree~
 .salon.sh.~undo-tree~
 .salon.sql.~undo-tree~
+.number_guess.sh.~undo-tree~
+.number_guess.sql.~undo-tree~
